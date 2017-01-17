@@ -2,3 +2,22 @@
 ---
 
 @import 'jekyll-theme-architect';
+
+aside a.button.social{
+    display: block;
+    width: 138px;
+    padding-left: 64px;
+    margin-bottom: 20px;
+    font-size: 21px;
+    background-color: transparent;
+	background-position: 0 0;
+	background-repeat: no-repeat;
+}
+
+.social.linkedin {
+	background-image: url(../images/linkedin.png);
+}
+
+.social.facebook {
+	background-image: url(../images/facebook.png);
+}
