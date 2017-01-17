@@ -8,11 +8,13 @@ aside a.button.social{
     width: 10px;
 	height: 30px;
     padding-left: 40px;
+	margin-left: 10px;
     margin-bottom: 0px;
     font-size: 21px;
     background-color: transparent;
     background-position: 0 0;
     background-repeat: no-repeat;
+	background-size: contain;
 }
 
 .social.linkedin {
@@ -21,4 +23,8 @@ aside a.button.social{
 
 .social.facebook {
 	background-image: url(../images/facebook.png);
+}
+
+.social.github {
+	background-image: url(../images/github.png);
 }
