@@ -25,11 +25,11 @@ public void hasExperience(List<Languages> languages) {
 }
 ```
 
-### Small image
+#### [](#header-4)SCJP 5
 
 ![](https://montandobits.files.wordpress.com/2010/03/scjp.jpg?w=450)
 
-### [](#header-4)JavaScript
+### [](#header-5)JavaScript
 
 ```js
 // Javascript code with syntax highlighting.
