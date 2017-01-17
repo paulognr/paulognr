@@ -9,6 +9,7 @@ entre outras 3 milhões de espécies já classificadas que vive num planetinha
 que gira em torno de uma estrelinha, que é o sol, que é uma estrela entre outras
 100 bilhôes de estrelas que compõe a via láctea, que é uma galáxia entre 
 outras 200 bilhões de galáxias num dos universos possíveis que vai desaparecer.
+(Mario Sergio Cortella)
 
 **Eu sou o subtreco do vicetroço!** :p
 
@@ -43,6 +44,6 @@ function hasExperience() {
 
 [**ByeJob**](https://chrome.google.com/webstore/detail/bye-job/gbjcfbdaafopnpejnijebokhecgbcdji?utm_source=chrome-ntp-icon)
 
-Extensão para auxilar no controle do horário de entrada e saída do trabalho, notificando-lhe quando está na hora de sair, evitando assim horas extras.
+Extensão para auxiliar no controle do horário de entrada e saída do trabalho, notificando-lhe quando está na hora de sair, evitando assim horas extras.
 
 ![](https://lh4.googleusercontent.com/8psQyVDPuU3PvzeWSMuwzv3xg-EjesxY7M2JzvBBohY6S4nIU7U1pkOY8oETIUKLWHpiYb1nOA=s640-h400-e365-rw)
