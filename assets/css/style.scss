@@ -3,6 +3,16 @@
 
 @import 'jekyll-theme-architect';
 
+header .me{
+	
+}
+
+header .profile-photo {
+	background-image: url(../images/me.jpg);
+	background-position: 0 0;
+    background-repeat: no-repeat;
+}
+
 aside a.button.social{
 	display: inline-block;
     width: 10px;
