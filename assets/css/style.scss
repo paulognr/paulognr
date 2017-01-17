@@ -3,14 +3,28 @@
 
 @import 'jekyll-theme-architect';
 
+header {
+	background: #2e7bcf url(../images/header.jpg) 0 -290px repeat-x;
+}
+
 header .me{
-	
+	float: right;
+    position: absolute;
+    top: 0;
+    right: 6%;
+	text-align: center;
+    color: white;
 }
 
 header .profile-photo {
 	background-image: url(../images/me.jpg);
-	background-position: 0 0;
+    background-position: 0 0;
     background-repeat: no-repeat;
+	background-size: cover;
+    width: 90px;
+    height: 90px;
+    border: 2px solid #CACACA;
+    border-radius: 180px;
 }
 
 aside a.button.social{
