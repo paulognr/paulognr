@@ -10,7 +10,7 @@ que gira em torno de uma estrelinha, que é o sol, que é uma estrela entre outr
 100 bilhôes de estrelas que compõe a via láctea, que é uma galáxia entre 
 outras 200 bilhões de galáxias num dos universos possíveis que vai desaparecer.
 
-**Eu sou o subtreco do vicetroço!**
+**Eu sou o subtreco do vicetroço!** :p
 
 ## [](#header-2)A minha profissão?
 
@@ -24,6 +24,10 @@ public void hasExperience(List<Languages> languages) {
   return languages.stream().filter(l -> "JAVA".equalsIgnoreCase(l.getName())).count() > 0;
 }
 ```
+
+### Small image
+
+![](https://montandobits.files.wordpress.com/2010/03/scjp.jpg?w=450)
 
 ### [](#header-4)JavaScript
 
