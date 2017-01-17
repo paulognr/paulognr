@@ -38,3 +38,11 @@ function hasExperience() {
   return true;
 }
 ```
+
+### [](#header-5)Google Chrome Extension
+
+[**ByeJob**](https://chrome.google.com/webstore/detail/bye-job/gbjcfbdaafopnpejnijebokhecgbcdji?utm_source=chrome-ntp-icon)
+
+Extensão para auxilar no controle do horário de entrada e saída do trabalho, notificando-lhe quando está na hora de sair, evitando assim horas extras.
+
+![](https://lh4.googleusercontent.com/8psQyVDPuU3PvzeWSMuwzv3xg-EjesxY7M2JzvBBohY6S4nIU7U1pkOY8oETIUKLWHpiYb1nOA=s640-h400-e365-rw)
