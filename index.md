@@ -28,7 +28,7 @@ public void hasExperience(List<Languages> languages) {
 
 #### [](#header-4)SCJP 5
 
-![](https://montandobits.files.wordpress.com/2010/03/scjp.jpg?w=450)
+![](https://paulognr.github.io/assets/images/scjp.jpg)
 
 ### [](#header-5)JavaScript
 
@@ -42,8 +42,8 @@ function hasExperience() {
 
 ### [](#header-5)Google Chrome Extension
 
-[**ByeJob**](https://chrome.google.com/webstore/detail/bye-job/gbjcfbdaafopnpejnijebokhecgbcdji?utm_source=chrome-ntp-icon)
+[**ByeJob**](https://github.com/paulognr/byejob)
 
 Extensão para auxiliar no controle do horário de entrada e saída do trabalho, notificando-lhe quando está na hora de sair, evitando assim horas extras.
 
-![](https://lh4.googleusercontent.com/8psQyVDPuU3PvzeWSMuwzv3xg-EjesxY7M2JzvBBohY6S4nIU7U1pkOY8oETIUKLWHpiYb1nOA=s640-h400-e365-rw)
+[![](https://raw.githubusercontent.com/paulognr/byejob/master/readmeImages/chromeStoreLink.png)](https://chrome.google.com/webstore/detail/bye-job/gbjcfbdaafopnpejnijebokhecgbcdji?utm_source=chrome-ntp-icon)
